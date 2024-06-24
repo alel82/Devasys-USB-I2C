@@ -1,0 +1,10 @@
+frmMain = 125, 125, 950, 486, C, 25, 25, 850, 386, C
+modParam = 0, 0, 0, 0, C
+modUsbI2cIo = 100, 100, 925, 461, C
+frmIOCheck = 0, 0, 0, 0, C, 150, 150, 975, 511, C
+frmUSBProp = 0, 0, 0, 0, C, 175, 175, 1000, 536, C
+frmI2CCheck = 75, 75, 900, 436, C, 50, 50, 875, 411, C
+frmModelChange = 0, 0, 0, 0, C, 0, 0, 825, 361, C
+frmCompareResult = 0, 0, 0, 0, C, 25, 25, 850, 386, C
+frmCompareWith = 0, 0, 0, 0, C, 50, 50, 875, 411, C
+frmProcess = 0, 0, 0, 0, C, 75, 75, 900, 436, C
